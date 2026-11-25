@@ -1,0 +1,13 @@
+JSON 
+{
+  "name": "sharedledger",
+  "version": "1.0.0",
+  "description": "Decentralized trust platform",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
